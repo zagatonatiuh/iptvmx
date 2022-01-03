@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MX | BITME" tvg-logo="https://i.imgur.com/d6KvLrg.png" group-title="TV MEXICO",MX | BITME
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141228
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN DEPORTES" tvg-logo="https://i.ibb.co/mb2HPTT/1.jpg" group-title="DEPORTES",MX | ESPN DEPORTES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154661
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="DEPORTES",MX | ESPN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154662
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 2" tvg-logo="https://i.imgur.com/sDD0Q2O.png" group-title="DEPORTES",MX | ESPN 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154663
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN 3" tvg-logo="https://i.imgur.com/7dMKKTO.png" group-title="DEPORTES",MX | ESPN 3
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154664
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS SD" tvg-logo="https://i.imgur.com/QjSaqsQ.png" group-title="DEPORTES",MX | FOX SPORTS SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154665
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/TkW1e3B.png" group-title="DEPORTES",MX | FOX SPORTS 2 SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154666
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3 SD" tvg-logo="https://i.imgur.com/KTSHFsi.png" group-title="DEPORTES",MX | FOX SPORTS 3 SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154667
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS SD" tvg-logo="https://i.ibb.co/njBpRjp/fox-sports-logo-0.png" group-title="DEPORTES",AR | FOX SPORTS SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154668
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1 SD" tvg-logo="https://i.imgur.com/sdgwygE.png" group-title="DEPORTES",CH | FOX SPORTS 1 SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154669
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/TkW1e3B.png" group-title="DEPORTES",AR | FOX SPORTS 2 SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154670
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://i.imgur.com/KTSHFsi.png" group-title="DEPORTES",AR | FOX SPORTS 3 SD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154671
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS PREMIUM " tvg-logo="https://i.ibb.co/1R8g7Ly/04812415-d248-435a-b745-ce452d8f4c7e.jpg" group-title="DEPORTES",AR | FOX SPORTS PREMIUM 
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154672

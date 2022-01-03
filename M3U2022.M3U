@@ -1,83 +1,483 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="ZONA KIDZ", BITME
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141228
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="ZONA KIDZ", Cartoon Network HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172203
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="ZONA KIDZ",Disney Channel
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172197
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior-mediano.png" group-title="ZONA KIDZ",Disney Junior
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172198
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_xd-mediano.png" group-title="ZONA KIDZ",Disney XD HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172199
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_kids-mediano.png" group-title="ZONA KIDZ",Discovery KIds HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172200
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/boomerang_latinoamerica-mediano.png" group-title="ZONA KIDZ",Boomerang
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172201
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/babyfirst_tv-mediano.png" group-title="ZONA KIDZ",Babyfirst
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172202
-
 #EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png" group-title="ZONA KIDZ",Nick HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172204
-
 #EXTINF:-1 tvg-id="" tvg-name="Nick 2 HD (R)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Nick_Jr._2_logo.png" group-title="ZONA KIDZ",Nick 2 HD (R)
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172205
-
 #EXTINF:-1 tvg-id="" tvg-name="Nick JR (DA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nick_jr-mediano.png" group-title="ZONA KIDZ",Nick JR (DA)
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172206
-
 #EXTINF:-1 tvg-id="" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Universal_Kids_Logo.png" group-title="ZONA KIDZ",Universal Kids
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172207
-
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_kids-mediano.png" group-title="ZONA KIDZ",Discovery Kids HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172208
-
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior East" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_junior-mediano.png" group-title="ZONA KIDZ",Disney Junior East
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172209
-
 #EXTINF:-1 tvg-id="" tvg-name="ONCE NInO" tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2020/01/cropped-Logo_Transparencia_legales.png-4.png" group-title="ZONA KIDZ",ONCE NInO
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172210
-
 #EXTINF:-1 tvg-id="" tvg-name="Peque tv" tvg-logo="https://w7.pngwing.com/pngs/753/917/png-transparent-television-show-anime-child-television-licence-anime-television-child-illustrator.png" group-title="ZONA KIDZ",Peque tv
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172211
-
 #EXTINF:-1 tvg-id="" tvg-name="Nicktoons HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nicktoons.png" group-title="ZONA KIDZ",Nicktoons HD
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172212
-
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD (R)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/boomerang_latinoamerica-mediano.png" group-title="ZONA KIDZ",BOOMERANG FHD (R)
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172213
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes (PE)" tvg-logo="http://coresys.dvrdns.org:8080/images/94b0cd6b2f44bb86544a49826d779940.jpg" group-title="DEPORTS",Movistar Deportes (PE)
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes (PE)" tvg-logo="http://coresys.dvrdns.org:8080/images/94b0cd6b2f44bb86544a49826d779940.jpg" group-title="DEPORTES",Movistar Deportes (PE)
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172147
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjSaqsQ.png" group-title="DEPORTES",MX | FOX SPORTS SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154665
+#EXTINF:-1 tvg-id="" tvg-name="LAT | beiN SPORTS Ñ HD" tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/11/bein-n-blog.jpg" group-title="DEPORTES",LAT | beiN SPORTS Ñ HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/151408
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkW1e3B.png" group-title="DEPORTES",MX | FOX SPORTS 2 SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154666
+#EXTINF:-1 tvg-id="" tvg-name="MX ESPN" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="DEPORTES",MX ESPN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172320
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KTSHFsi.png" group-title="DEPORTES",MX | FOX SPORTS 3 SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154667
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2" tvg-logo="https://eliasarriazola.files.wordpress.com/2011/01/espn2_bw_neg.jpg" group-title="DEPORTES",MX: ESPN 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172321
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/njBpRjp/fox-sports-logo-0.png" group-title="DEPORTES",AR | FOX SPORTS SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154668
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2021/10/ESPN3-1.jpg" group-title="DEPORTES",MX: ESPN 3
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/172322
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sdgwygE.png" group-title="DEPORTES",CH | FOX SPORTS 1 SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154669
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS" tvg-logo="https://i.imgur.com/bQ7Ztbl.png" group-title="DEPORTES",MX | FOX SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141523
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkW1e3B.png" group-title="DEPORTES",AR | FOX SPORTS 2 SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154670
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 2" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/01/FOX-SPORTS-2-MX-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="DEPORTES",MX | FOX SPORTS 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141464
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KTSHFsi.png" group-title="DEPORTES",AR | FOX SPORTS 3 SD
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154671
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3" tvg-logo="https://i.imgur.com/SqkLrOK.png" group-title="DEPORTES",MX | FOX SPORTS 3
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141525
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1R8g7Ly/04812415-d248-435a-b745-ce452d8f4c7e.jpg" group-title="DEPORTES",AR | FOX SPORTS PREMIUM 
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/154672
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.ytimg.com/vi/kZ1VcAFXG9Y/maxresdefault.jpg" group-title="DEPORTES",CLARO SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141455
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.ibb.co/9br0KWF/unnamed.png" group-title="DEPORTES",TNT SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141502
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/AB9Qttl.png" group-title="DEPORTES",TYC SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141503
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.imgur.com/AB9Qttl.png" group-title="DEPORTES",TYC SPORTS INTERNACIONAL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141504
+#EXTINF:-1 tvg-id="" tvg-name="TELETRAK TV Hipodromo" tvg-logo="https://i.imgur.com/a2tUk3H.png" group-title="DEPORTES",TELETRAK TV Hipodromo
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141505
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Formula 1" tvg-logo="https://i.ibb.co/fvnq2gr/dazn.jpg" group-title="DEPORTES",DAZN Formula 1
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141509
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://i.ibb.co/HCB931j/images.png" group-title="DEPORTES",EUROSPORT 1
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141510
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://i.ibb.co/xM0bqfM/Eurosport2.jpg" group-title="DEPORTES",EUROSPORT 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141511
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/g/o/l/gol.jpg" group-title="DEPORTES",GOL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141512
+#EXTINF:-1 tvg-id="" tvg-name="GOLF Channel NBC" tvg-logo="https://i.imgur.com/14Zu6mf.png" group-title="DEPORTES",GOLF Channel NBC
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141513
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://i.imgur.com/y3iX2Nx.png" group-title="DEPORTES",MOVISTAR DEPORTES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141514
+#EXTINF:-1 tvg-id="" tvg-name="TOROS" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="DEPORTES",TOROS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141515
+#EXTINF:-1 tvg-id="" tvg-name="AFFIZIONADOS" tvg-logo="https://www.paredro.com/wp-content/uploads/2018/12/El-logo-de-IZZI-es-un-ambigrama-que-se-puede-leer-igual-al-reve%CC%81s.jpg" group-title="DEPORTES",AFFIZIONADOS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141518
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="https://i.imgur.com/51oLzmo.png" group-title="DEPORTES",TUDN MX
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141526
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES MX" tvg-logo="https://i.imgur.com/EaP3LzP.png" group-title="DEPORTES",TVC DEPORTES MX
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141527
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1 HD" tvg-logo="https://i.ibb.co/HKZBnnt/DAZN-Logo.jpg" group-title="DEPORTES",ES | DAZN 1 HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141853
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2 HD" tvg-logo="https://i.ibb.co/HKZBnnt/DAZN-Logo.jpg" group-title="DEPORTES",ES | DAZN 2 HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141854
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3 HD" tvg-logo="https://i.ibb.co/HKZBnnt/DAZN-Logo.jpg" group-title="DEPORTES",ES | DAZN 3 HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141855
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4 HD" tvg-logo="https://i.ibb.co/HKZBnnt/DAZN-Logo.jpg" group-title="DEPORTES",ES | DAZN 4 HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141856
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN Formula HD" tvg-logo="https://i.ibb.co/fvnq2gr/dazn.jpg" group-title="DEPORTES",ES | DAZN Formula HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141857
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS" tvg-logo="https://i.imgur.com/G478cGU.png" group-title="DIRECTV SPORTS",AR | DIRECTV SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141485
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS 1" tvg-logo="https://i.imgur.com/G478cGU.png" group-title="DIRECTV SPORTS",LAT | DIRECTV SPORTS 1
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141486
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS +" tvg-logo="https://i.imgur.com/okhqFFc.png" group-title="DIRECTV SPORTS",AR | DIRECTV SPORTS +
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141487
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS 2" tvg-logo="https://i.imgur.com/94Pqc27.png" group-title="DIRECTV SPORTS",AR | DIRECTV SPORTS 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141488
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://i.imgur.com/QRgpp3C.png" group-title="LIGA ESPAÑOLA",BARCA TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142074
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LA LIGA" tvg-logo="https://i.imgur.com/QRgpp3C.png" group-title="LIGA ESPAÑOLA",Movistar LA LIGA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142078
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LIGA DE CAMPEONES" tvg-logo="https://i.imgur.com/QRgpp3C.png" group-title="LIGA ESPAÑOLA",Movistar LIGA DE CAMPEONES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142080
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://i.imgur.com/QRgpp3C.png" group-title="LIGA ESPAÑOLA",REAL MADRID TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142081
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://i.imgur.com/ylrwsav.png" group-title="WINSPORTS",WIN SPORTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141507
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="https://i.imgur.com/ylrwsav.png" group-title="WINSPORTS",WIN SPORTS +
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141508
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.imgur.com/jX6jQFl.png" group-title="CINEMA",AMC
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141719
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/325IzjL.png" group-title="CINEMA",AXN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141720
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="CINEMA",CINECANAL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141721
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/Q96G6mj/cinemax.jpg" group-title="CINEMA",CINEMAX
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141722
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://i.imgur.com/Ch5SvNR.png" group-title="CINEMA",EUROPA EUROPA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141723
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.imgur.com/iH1jRoa.png" group-title="CINEMA",FX
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141733
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="https://i.imgur.com/eMVVOS5.png" group-title="CINEMA",FX Movies
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141734
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/Mfgcg4K/GOLDEN-HD.png" group-title="CINEMA",GOLDEN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141735
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://i.imgur.com/j3Wy9eP.png" group-title="CINEMA",GOLDEN EDGE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141736
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.imgur.com/c1RPJE3.png" group-title="CINEMA",GOLDEN PLUS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141737
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/pQ8SBP1/GOLDEN-PREMIERE-FHD.png" group-title="CINEMA",GOLDEN PREMIER
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141738
+#EXTINF:-1 tvg-id="" tvg-name="PANICO" tvg-logo="https://i.imgur.com/7UG19f0.png" group-title="CINEMA",PANICO
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141748
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.imgur.com/IwWPsTI.png" group-title="CINEMA",PARAMOUNT CHANNEL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141749
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/ZXDYf91/1200px-Sony-Channel-latam-logo-svg.png" group-title="CINEMA",SONY CHANNEL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141750
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.imgur.com/JEw7bnf.png" group-title="CINEMA",SPACE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141751
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL LATINO" tvg-logo="https://i.ibb.co/6g9TRHS/unnamed.jpg" group-title="CINEMA",STUDIO UNIVERSAL LATINO
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141752
+#EXTINF:-1 tvg-id="" tvg-name="SYFY CHANNEL" tvg-logo="https://i.imgur.com/nneWFYF.png" group-title="CINEMA",SYFY CHANNEL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141753
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.imgur.com/S7MU8Rg.png" group-title="CINEMA",TNT
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141754
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/eOK1JY8.jpg" group-title="CINEMA",TNT SERIES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141755
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/Cc4E9AQ.png" group-title="CINEMA",UNIVERSAL CHANNEL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141756
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/COYKrvR.png" group-title="CINEMA",WARNER TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141757
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.ibb.co/kmsz92V/CKoz2sl-VAAAa-SEB.png" group-title="CINEMA",CINEMA DINAMITA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141763
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/NnLqsq0/imgpsh-fullsize-anim.jpg" group-title="CINEMA",DE PELICULA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141766
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA+" tvg-logo="https://i.imgur.com/ipKteSv.png" group-title="CINEMA",DE PELICULA+
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141767
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://i.imgur.com/Clc1mbJ.png" group-title="CINEMA",DHE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141768
+#EXTINF:-1 tvg-id="" tvg-name="I SAT" tvg-logo="https://i.pinimg.com/280x280_RS/57/94/bc/5794bc4834b73112c9a90978089a5ada.jpg" group-title="CINEMA",I SAT
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141794
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="http://justv.xyz:25461/images/363634ac453c5228f143e38883076f50.jpg" group-title="CINEMA",MULTIPREMIER
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141796
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.imgur.com/3toHIUg.png" group-title="CINEMA",TBS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141803
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.imgur.com/nJMQWKy.png" group-title="CINEMA",TCM
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141804
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://i.imgur.com/PecjymF.png" group-title="CINEMA",CINE LATINO
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141809
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/fJxaYgH.png" group-title="CINEMA",HBO
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141739
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/AyAPCgm.png" group-title="CINEMA",HBO 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141740
+#EXTINF:-1 tvg-id="" tvg-name="HBO+" tvg-logo="https://i.imgur.com/AElGmKm.png" group-title="CINEMA",HBO+
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141741
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/SBHVRcm.png" group-title="CINEMA",HBO FAMILY
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141742
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/zQPhbT3.png" group-title="CINEMA",HBO MUNDI
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141743
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/G6noqld.png" group-title="CINEMA",HBO POP
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141744
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/gKfF7Ze.png" group-title="CINEMA",HBO SIGNATURE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141745
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/mSB5mSZ/Xtreme-0.jpg" group-title="CINEMA",HBO XTREME
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141746
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://futuretv.mx/logos/canales/mex.starchannel.png" group-title="CINEMA",STAR CHANNEL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141724
+#EXTINF:-1 tvg-id="" tvg-name="STAR ACTION" tvg-logo="https://futuretv.mx/logos/canales/mex.staraction.png" group-title="CINEMA",STAR ACTION
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141725
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" tvg-logo="https://futuretv.mx/logos/canales/mex.starcinema.png" group-title="CINEMA",STAR CINEMA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141726
+#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSICS" tvg-logo="https://futuretv.mx/logos/canales/mex.starclassics.png" group-title="CINEMA",STAR CLASSICS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141727
+#EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://futuretv.mx/logos/canales/mex.starcomedy.png" group-title="CINEMA",STAR COMEDY
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141728
+#EXTINF:-1 tvg-id="" tvg-name="STAR FUN" tvg-logo="https://futuretv.mx/logos/canales/mex.starfun.png" group-title="CINEMA",STAR FUN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141729
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS" tvg-logo="https://futuretv.mx/logos/canales/mex.starhits.png" group-title="CINEMA",STAR HITS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141730
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE" tvg-logo="https://futuretv.mx/logos/canales/mex.starlife.png" group-title="CINEMA",STAR LIFE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141731
+#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES" tvg-logo="https://futuretv.mx/logos/canales/mex.starseries.png" group-title="CINEMA",STAR SERIES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141732
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="CINEMA",CINEMA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141710
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1280px-Movistar_Disney.svg.png" group-title="CINEMA",Movistar Disney
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141711
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Movistar_CineDoc%26Roll.svg/1726px-Movistar_CineDoc%26Roll.svg.png" group-title="CINEMA",Movistar Estrenos2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141712
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINEMA",Movistar Comedia HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141713
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="CINEMA",Movistar Drama HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141714
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Seriesmania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1024px-Movistar_Seriesman%C3%ADa.svg.png" group-title="CINEMA",Movistar Seriesmania
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141717
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.ipuntotv.com/IMAGES/Distrito-Comedia-Logo-2019.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141232
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.imgur.com/pr5BRwt.png" group-title="ENTRETENIMIENTO",A&E
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141246
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://piercingmetal.com/wp-content/uploads/2020/07/Logo-Comedy-Central.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141250
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment" tvg-logo="https://i.imgur.com/eQGRQiy.png" group-title="ENTRETENIMIENTO",E! Entretainment
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141261
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/sqjgXcT/Ds-DOn-KWX0-AAvy5-M.jpg" group-title="ENTRETENIMIENTO",HGTV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141266
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D En Español" tvg-logo="https://i.ibb.co/WvF5HCy/Kanal-D-HD-2011.png" group-title="ENTRETENIMIENTO",KANAL D En Español
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141271
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://i.imgur.com/YXqow38.png" group-title="ENTRETENIMIENTO",PASIONES
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141275
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://i.imgur.com/dfrRCw0.png" group-title="ENTRETENIMIENTO",TLNOVELAS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141278
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://i.ibb.co/fkmwBrG/unnamed.jpg" group-title="ENTRETENIMIENTO",UNICABLE
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141280
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://i.imgur.com/49zOUbV.png" group-title="ENTRETENIMIENTO",HOLA TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141958
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/PQKzNP1/brand.gif" group-title="ENTRETENIMIENTO",LIFETIME
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141960
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.imgur.com/LfuA6Q5.png" group-title="ENTRETENIMIENTO",TLC
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141967
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION " tvg-logo="https://i.ibb.co/JdRLHSG/galavision-logo-detail.gif" group-title="ENTRETENIMIENTO",GALAVISION 
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142026
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO HD" tvg-logo="https://i.imgur.com/1LolYCJ.png" group-title="ENTRETENIMIENTO",NBC UNIVERSO HD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142033
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://epmghispanic.media.clients.ellingtoncms.com/img/photos/2015/06/17/TelemundoBoston.png" group-title="ENTRETENIMIENTO",TELEMUNDO BOSTON
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142034
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Chicago" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO Chicago
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142035
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Houston" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO Houston
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142036
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Internacional" tvg-logo="https://i.imgur.com/dHzBgoK.png" group-title="ENTRETENIMIENTO",TELEMUNDO Internacional
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142037
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Los Angeles" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO Los Angeles
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142038
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Miami" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO Miami
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142039
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO New York" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO New York
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142040
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Phoenix" tvg-logo="https://i.imgur.com/LFh3m4H.png" group-title="ENTRETENIMIENTO",TELEMUNDO Phoenix
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142041
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS Miami" tvg-logo="https://i.imgur.com/eLIc5rQ.png" group-title="ENTRETENIMIENTO",UNIMAS Miami
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142044
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS New York" tvg-logo="https://i.imgur.com/eLIc5rQ.png" group-title="ENTRETENIMIENTO",UNIMAS New York
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142045
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS Sacramento" tvg-logo="https://i.imgur.com/eLIc5rQ.png" group-title="ENTRETENIMIENTO",UNIMAS Sacramento
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142046
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION Chicago" tvg-logo="https://i.imgur.com/0HnGkFk.png" group-title="ENTRETENIMIENTO",UNIVISION Chicago
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142047
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION Houston" tvg-logo="https://i.imgur.com/0HnGkFk.png" group-title="ENTRETENIMIENTO",UNIVISION Houston
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142048
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION Philadelphia" tvg-logo="https://st1.uvnimg.com/dims4/default/3e1351f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff5%2F1b%2Fb6773a6f46dabccc22bd727c9fc6%2Fdesktop-univision-65-philadelphia-298x168.jpg" group-title="ENTRETENIMIENTO",UNIVISION Philadelphia
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142050
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL Novelas
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142051
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION Los Angeles" tvg-logo="https://i.imgur.com/0HnGkFk.png" group-title="ENTRETENIMIENTO",UNIVISION Los Angeles
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142052
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://pbs.twimg.com/media/EP3av1zVAAA7Vic.jpg" group-title="ENTRETENIMIENTO",ESTRELLA TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142053
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO Salt Lake City" tvg-logo="https://st1.uvnimg.com/dims4/default/3e1351f/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff5%2F1b%2Fb6773a6f46dabccc22bd727c9fc6%2Fdesktop-univision-65-philadelphia-298x168.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO Salt Lake City
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/142054
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet" tvg-logo="https://i.imgur.com/WSf4WDX.png" group-title="MUNDO Y CULTURA",ANIMAL Planet
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141247
+#EXTINF:-1 tvg-id="" tvg-name="CAZA & PESCA" tvg-logo="https://i.imgur.com/X18tLOR.png" group-title="MUNDO Y CULTURA",CAZA & PESCA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141248
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Channel" tvg-logo="https://i.imgur.com/czSLcrV.png" group-title="MUNDO Y CULTURA",DISCOVERY Channel
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141251
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Home & Health" tvg-logo="https://i.imgur.com/bvWBktx.png" group-title="MUNDO Y CULTURA",DISCOVERY Home & Health
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141253
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigation" tvg-logo="https://i.imgur.com/AAAjh5P.png" group-title="MUNDO Y CULTURA",DISCOVERY Investigation
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141254
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="https://i.imgur.com/l6fwWC3.png" group-title="MUNDO Y CULTURA",DISCOVERY Science
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141255
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="https://i.imgur.com/MD09iX0.png" group-title="MUNDO Y CULTURA",DISCOVERY Theater
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141256
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo" tvg-logo="https://i.imgur.com/YKIk8cu.png" group-title="MUNDO Y CULTURA",DISCOVERY Turbo
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141257
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World" tvg-logo="https://i.imgur.com/OVXVT26.png" group-title="MUNDO Y CULTURA",DISCOVERY World
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141258
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="https://i.ibb.co/dKgxbt0/e672caf2666b92af56cab1c839f1ad2669ba39a7aeb4705160680a956995d20d.png" group-title="MUNDO Y CULTURA",DOG TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141260
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.imgur.com/PpL8a2J.png" group-title="MUNDO Y CULTURA",EL GOURMET
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141262
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="https://i.imgur.com/d5jdBqn.png" group-title="MUNDO Y CULTURA",FILM & ARTS
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141264
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/wloGzzZ.png" group-title="MUNDO Y CULTURA",Food Network
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141265
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://i.imgur.com/VP4buAP.png" group-title="MUNDO Y CULTURA",History
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141268
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg" group-title="MUNDO Y CULTURA",History 2
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141269
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="MUNDO Y CULTURA",NATGEO WILD
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141273
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL Geographic" tvg-logo="https://i.imgur.com/mL7EVCw.png" group-title="MUNDO Y CULTURA",NATIONAL Geographic
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141274
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="https://i.ibb.co/QpyMw4S/smithsonian-channel-logo-thumbnail.jpg" group-title="MUNDO Y CULTURA",SMITHSONIAN
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141276
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="https://i.imgur.com/HAALtH2.png" group-title="MUNDO Y CULTURA",TRU TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141279
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://i.ibb.co/tJ64hNn/18455820170716-281214-canal-cocina.jpg" group-title="MUNDO Y CULTURA",CANAL COCINA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141942
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" tvg-logo="https://i.ibb.co/Zf9Gp43/cazavision.jpg" group-title="MUNDO Y CULTURA",CAZAVISION
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141943
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPANOL" tvg-logo="https://i.ibb.co/HB4NYjT/vqz3v4tcnaovgismwfoz.png" group-title="MUNDO Y CULTURA",CGTN ESPANOL
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141944
+#EXTINF:-1 tvg-id="" tvg-name="DECASA" tvg-logo="https://i.ibb.co/yV8HdQr/7daedfc5-fce5-4b0b-bd31-2b9eb01bd8f9.jpg" group-title="MUNDO Y CULTURA",DECASA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141945
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://i.ibb.co/P4YpZF7/descarga.png" group-title="MUNDO Y CULTURA",GLITZ
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141955
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="https://i.imgur.com/InWuD6u.png" group-title="MUNDO Y CULTURA",Mas Chic
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141961
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://i.ibb.co/VDDd7k1/Logo-Nasa-Spot-B.jpg" group-title="MUNDO Y CULTURA",NASA TV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141962
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="https://i.ibb.co/Hg7w6Hr/descarga.png" group-title="MUNDO Y CULTURA",ODISEA
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141965
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="https://i.ibb.co/T0jFRC4/6265170-640x640.png" group-title="MUNDO Y CULTURA",WOBI
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141969
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | BANDAMAX" tvg-logo="https://i.imgur.com/zyT9H99.png" group-title="MUSICA Y AUDIO",MUSICA | BANDAMAX
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141311
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | CONCERT Channel" tvg-logo="https://i.ibb.co/MGWLLxX/co-concert-channel-hd-m.png" group-title="MUSICA Y AUDIO",MUSICA | CONCERT Channel
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141312
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | HTV Latino" tvg-logo="https://i.imgur.com/00aPkJC.png" group-title="MUSICA Y AUDIO",MUSICA | HTV Latino
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141314
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV Hits" tvg-logo="https://i.imgur.com/FW18oWt.png" group-title="MUSICA Y AUDIO",MUSICA | MTV Hits
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141315
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV" tvg-logo="https://i.imgur.com/FW18oWt.png" group-title="MUSICA Y AUDIO",MUSICA | MTV
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141316
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV Live" tvg-logo="https://i.ibb.co/z5hkXHK/images-3.png" group-title="MUSICA Y AUDIO",MUSICA | MTV Live
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141317
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | PODER Norteño" tvg-logo="https://i.ibb.co/NsLqFm6/avatars-000242913067-j6vd0o-t240x240.jpg" group-title="MUSICA Y AUDIO",MUSICA | PODER Norteño
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141318
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TELEHIT" tvg-logo="https://i.ibb.co/XZMVXk3/telehit-musica-senales.jpg" group-title="MUSICA Y AUDIO",MUSICA | TELEHIT
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141319
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TOP Latino" tvg-logo="https://i.ibb.co/QF56n7L/6e1f857c1e1174b9ea273ec32fcf1284.jpg" group-title="MUSICA Y AUDIO",MUSICA | TOP Latino
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141320
+#EXTINF:-1 tvg-id="" tvg-name="90s)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",90s)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141321
+#EXTINF:-1 tvg-id="" tvg-name="90s)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",90s)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141322
+#EXTINF:-1 tvg-id="" tvg-name="90s Reloaded 2008)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",90s Reloaded 2008)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141323
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 3 (Old skool)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 3 (Old skool)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141324
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 5 (Tropical mix)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 5 (Tropical mix)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141325
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 6 (Tropical mix 2)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 6 (Tropical mix 2)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141326
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 7 (Tropical mix 3)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 7 (Tropical mix 3)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141327
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 8 (Dance remixes 2)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 8 (Dance remixes 2)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141328
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 9 (Pop)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 9 (Pop)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141329
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 11 (Dance remixes 3)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 11 (Dance remixes 3)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141330
+#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 14 (Salsa Mix)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Bonus Project 14 (Salsa Mix)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141331
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 2 (Pop eurodance 90s)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 2 (Pop eurodance 90s)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141332
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 3 (Pop 2000-2004)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 3 (Pop 2000-2004)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141333
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 5 (Rock Pop 90s)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 5 (Rock Pop 90s)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141334
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 6 (Pop 2004-2006)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 6 (Pop 2004-2006)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141335
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 7 (Reggaeton)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 7 (Reggaeton)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141336
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 8 (Español)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 8 (Español)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141337
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 10 (Soundtrack)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 10 (Soundtrack)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141338
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 11 (Rock latino)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 11 (Rock latino)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141339
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 12 (Onda disco)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 12 (Onda disco)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141340
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 13 (Exitos en español)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 13 (Exitos en español)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141341
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 14-1 (Rock edition CD 1)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 14-1 (Rock edition CD 1)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141342
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 14-2 (Rock edition CD 2)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Classic Project 14-2 (Rock edition CD 2)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141343
+#EXTINF:-1 tvg-id="" tvg-name="Vinilo Project 2(80s)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Vinilo Project 2(80s)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141344
+#EXTINF:-1 tvg-id="" tvg-name="Vinilo Project 3" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Vinilo Project 3
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141345
+#EXTINF:-1 tvg-id="" tvg-name="The 80s Videomix Volume 1" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",The 80s Videomix Volume 1
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141346
+#EXTINF:-1 tvg-id="" tvg-name="The 90s EurodanceVideomix" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",The 90s EurodanceVideomix
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141347
+#EXTINF:-1 tvg-id="" tvg-name="SheepMix" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",SheepMix
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141348
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2009" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2009
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141349
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2010" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2010
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141350
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2011" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2011
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141351
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2012" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2012
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141352
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2013" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2013
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141353
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2014" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2014
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141354
+#EXTINF:-1 tvg-id="" tvg-name="Yearmix2015" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA Y AUDIO",Yearmix2015
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141355
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (Captain Tsubasa)" tvg-logo="https://i.ibb.co/LQpDKgS/descarga.jpg" group-title="ANIMADOS",24/7 Super Campeones (Captain Tsubasa)
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Torneo Galactico" tvg-logo="https://i.ibb.co/cTS7MPp/10-101709-los-caballeros-del-zodiaco-30-aniversario-saint-seiya.png" group-title="ANIMADOS",24/7 Saint Seiya Torneo Galactico
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Las 12 Casas" tvg-logo="https://i.ibb.co/7NGzQXC/Dt9-VO29-U8-AAu1n-B.jpg" group-title="ANIMADOS",24/7 Saint Seiya Las 12 Casas
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 REN & STIMPY" tvg-logo="http://195.154.200.76/Imagenes/RenyStimpy.jpg" group-title="ANIMADOS",24/7 REN & STIMPY
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/157582
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos TEMP 7-9" tvg-logo="https://i.ibb.co/0ndCnJK/DsXO2jug.jpg" group-title="SERIES PASS",24/7 Vecinos TEMP 7-9
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141872
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="https://i.ibb.co/1bHrmmC/19553364-1720187848006293-2106157817-n-grande.webp" group-title="SERIES PASS",24/7 El Chavo del 8
+http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141863
+
+
+
+
+
+
+
+
